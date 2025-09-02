@@ -7,7 +7,6 @@ body {
 #main-section {
     color: red;
     font-weight: bolder;
-    background-color: green;
     background-image: url("../images/staten-island.jpg");
     background-size: cover;
     padding-top: 275px;
