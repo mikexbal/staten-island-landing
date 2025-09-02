@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-section {
+    color: red;
+    font-weight: bolder;
+    background-color: green;
+    background-image: url("../images/staten-island.jpg");
+    background-size: cover;
+    padding-top: 275px;
+    padding-bottom: 250px;
+}
+
+.main-heading {
+    color: white;
+    background-color: #37353E;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    margin-top: 0;
+    border-radius: 10px;
+    font-size: 30px;
+    line-height: 40px;
+    padding: 10px;
+}
+
+
+.main-description {
+    color: white;
+    background-color: #44444E;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    font-size: 25px;
+    line-height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.visit-description {
+
+}
